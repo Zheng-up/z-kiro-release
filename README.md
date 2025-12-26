@@ -2,12 +2,6 @@
 
 > 下载 Z-Kiro 账号管理工具的各平台安装包。
 
-## 最新版本
-
-- **当前版本**：v1.9.0  
-- **发布日期**：2025-12-24  
-- [点击查看全部 Release](https://github.com/Zheng-up/z-kiro-release/releases)
-
 ## 下载方式
 
 **Windows:**
